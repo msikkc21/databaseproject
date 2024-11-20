@@ -4,4 +4,4 @@ npm install
 
 sebelum memodifikasi program, jalankan 
 
-npm run dev
+npm run build
